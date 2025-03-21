@@ -1,4 +1,4 @@
-# My Diet Diary
+# Smart Nutrition System
 A full-featured interactive web application in HTML, CSS and React JS that keeps track of users’ diet plans.
 
 Link to the hosted website: https://my-diet-diary.web.app
@@ -26,4 +26,4 @@ If you have accidently added wrong items, you have the option to remove them fro
 
 <br>
 
-##### Credit: INFO 340 Group A6
+
